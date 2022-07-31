@@ -3,9 +3,5 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('/', ),
-
+    path('newway/', ),
 ]
-
-#우브랜치 입니다
-#우가 코드를 바꿨어요
